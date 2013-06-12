@@ -11,6 +11,7 @@
     <file path="/a.dummy" changelist="1ab59ffd-c6a8-4976-ba5b-bb3d9be02f7c" time="1371069049953" ignored="false" />
     <file path="/application.css" changelist="1ab59ffd-c6a8-4976-ba5b-bb3d9be02f7c" time="1371069878899" ignored="false" />
     <file path="/custom.js" changelist="1ab59ffd-c6a8-4976-ba5b-bb3d9be02f7c" time="1371069958440" ignored="false" />
+    <file path="/application.html.erb" changelist="1ab59ffd-c6a8-4976-ba5b-bb3d9be02f7c" time="1371070591093" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="32" selection-start="391" selection-end="391" vertical-scroll-proportion="0.45385778">
+            <state line="13" column="80" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,10 +118,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="3" column="20" selection-start="50" selection-end="50" vertical-scroll-proportion="0.07064364">
               <folding />
             </state>
           </provider>
@@ -147,6 +148,7 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/custom.js" />
         <option value="$PROJECT_DIR$/app/views/bdays/home.html.erb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -647,13 +649,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/lettering.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="7" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0">
@@ -718,7 +713,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="32" selection-start="391" selection-end="391" vertical-scroll-proportion="0.45385778">
+        <state line="13" column="80" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="20" selection-start="50" selection-end="50" vertical-scroll-proportion="0.07064364">
           <folding />
         </state>
       </provider>
