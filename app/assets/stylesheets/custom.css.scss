@@ -1,0 +1,32 @@
+$baseFontFamily: Chewy;
+@import url(http://fonts.googleapis.com/css?family=Chewy);
+
+body {
+  background-color: #ECC8EC;
+  h1 {
+    font-family: Chewy;
+    font-size: 100px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 100px;
+    #happy {
+      &:hover {
+        color: dodgerblue;
+        cursor: url(partyhat.png), default;
+      }
+    }
+    #birthday {
+      &:hover {
+        color: deeppink;
+        cursor: url(partyhat.png), default;
+      }
+    }
+    #ally {
+      &:hover {
+        color: lightseagreen;
+        cursor: url(partyhat.png), default;
+      }
+    }
+  }
+}
+
